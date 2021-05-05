@@ -1,0 +1,7 @@
+This version of kernel source is fetch from the codeaurora general released.
+
+kernel_version = 3.14.28
+release_date = 04/05/2021
+
+note:
+	The last updated kernel version for demo 1
